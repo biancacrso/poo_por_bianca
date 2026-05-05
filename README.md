@@ -23,12 +23,12 @@ Linguagem de Programação: PHP.
 
 **Estrutura do projeto:**
 
-pessoa.php
-estudante.php
-professor.php
-servidor.php
-visitante.php
-index.php
+pessoa.php;
+estudante.php;
+professor.php;
+servidor.php;
+visitante.php;
+index.php.
 
 **Autora:**
 
