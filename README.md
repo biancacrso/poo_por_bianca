@@ -25,12 +25,12 @@ Linguagem de Programação: PHP.
 
 poo_por_bianca/
 
-|-- pessoa.php
-|-- estudante.php
-|-- professor.php
-|-- servidor.php
-|-- visitante.php
-|-- index.php
+pessoa.php
+estudante.php
+professor.php
+servidor.php
+visitante.php
+index.php
 
 **Autora:**
 
