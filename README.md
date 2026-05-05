@@ -23,8 +23,6 @@ Linguagem de Programação: PHP.
 
 **Estrutura do projeto:**
 
-poo_por_bianca/
-
 pessoa.php
 estudante.php
 professor.php
